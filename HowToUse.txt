@@ -1,0 +1,7 @@
+Create By ZackCnlSamp
+
+How To Use
+
+python3 rawr.py -i YOURIP -p YOURPORT -t 120 -th 10
+
+Ubah YOURIP Dengan Ip Yang Mau Lu DDoS Dan Ubah YOURPORT Dengan Port Yang Mau Lu DDoS
